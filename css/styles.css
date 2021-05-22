@@ -1,0 +1,172 @@
+body {
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+p {
+    line-height: 2;
+}
+
+
+hr {
+    
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    margin: 70px auto;
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 40px 0 20px 0;
+}
+
+.contact-bottom {
+    margin: 20px 0 0 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.margin-manage {
+    margin:auto 20px;
+}
+
+.profile-img {
+    width: 15%;
+    height: 15%;
+}
+
+.py-skill-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.r-skill-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right:300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.challenge1-color {
+    color: #66BFBF;
+    font-size: 30px;
+}
+
+.challenge2-color {
+    color: #11999E;
+}
+
+.normal-weight {
+    font-weight: normal;
+}
+
+.skills {
+    margin: 30px auto;
+}
+
+.skill-row {
+    width: 60%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.description {
+    color: #40514E;
+    width: 50%;
+    margin: auto auto 30px auto;
+}
+
+
+
+.skills-color {
+    color:#66BFBF;
+}
+
+.contact-info {
+    color:#66BFBF;
+    padding: 50px auto 50px auto;
+    display: inline-block;
+}
+
+.copyright { 
+    color:#EAF6F6;
+    font-size: 0.75rem;
+    padding: 10px 0;
+}
+
+.BUTTON_QSS {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 10px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_QSS:hover {
+    background: #4CD5D5;
+    border-radius: 10px;
+    border: none;
+    -webkit-border-radius: 21px;
+    -moz-border-radius: 21px;
+    border-radius: 10px;
+    text-decoration: none;
+ }
+
+ .end-contact {
+     width:50%;
+     margin: 40px auto 50px auto;
+ }
